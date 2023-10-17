@@ -1,0 +1,39 @@
+ion-col {
+  border-width: 1px;
+  border-style: solid;
+  border-color: #fff;
+}
+ion-row {
+  border-width: 1px;
+  border-style: solid;
+  border-color: blue;
+}
+
+ion-grid {
+  border-width: 1px;
+  border-style: solid;
+  border-color: red;
+}
+
+img {
+  border-radius: 8px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  height: auto;
+}
+
+.center {
+ text-align: center;
+
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+#container {
+  
+}
